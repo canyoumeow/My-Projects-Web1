@@ -3,7 +3,7 @@
     flex-flow: row wrap;
     flex-direction: row;
     align-items: center;
-    background-color:blueviolet;
+    background-color:rgb(65, 141, 173);
     height: 400px;
 }
 
@@ -24,7 +24,7 @@ h1 {
 
 #div1 {
     background-color:black;
-    color:brown;
+    color:rgb(42, 108, 165);
     flex-basis: 200px;
     align-self: end;
 }
